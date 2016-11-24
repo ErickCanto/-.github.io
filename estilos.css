@@ -24,6 +24,8 @@ main p {
 	background-color: #460B00;
 	padding: 30px;
 	color: white;
+	text-align: center;
+	font-family: "Comic Sans", "Comic Sans MS", cursive, "Times New Roman",Serif,Times,arial;
 }
 main {
 	background-color: #fff;
