@@ -17,7 +17,7 @@ header ul li a{
 	text-decoration: none;
 	padding: 20px;
 }
-header ul li a :hover {
+header ul li a:hover {
 	background-color: #ef8354;
 }
 main p {
