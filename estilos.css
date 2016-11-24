@@ -20,6 +20,11 @@ header ul li a{
 header ul li a :hover {
 	background-color: #ef8354;
 }
+main p {
+	background-color: #460B00;
+	padding: 30px;
+	color: white;
+}
 main {
 	background-color: #fff;
 	padding: 20px;
@@ -28,4 +33,7 @@ footer{
 	background-color: #303030;
 	color: #FFF;
 	padding: 10px;
+}
+h2{
+	text-align: center;
 }
