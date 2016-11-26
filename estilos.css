@@ -15,7 +15,7 @@ header ul{
 header ul li a{
 	color: #FFF;
 	text-decoration: none;
-	padding: 20px;
+	padding: 10px;
 }
 header ul li a:hover {
 	background-color: #ef8354;
@@ -38,4 +38,12 @@ footer{
 }
 h2{
 	text-align: center;
+}
+h1{
+	text-align: center;
+	color: #6c0404;
+}
+main img{
+	padding: 20px;
+	background-color: #fee6e6;
 }
