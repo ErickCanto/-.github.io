@@ -43,7 +43,10 @@ h1{
 	text-align: center;
 	color: #6c0404;
 }
-main img{
+main img.displayed{
 	padding: 20px;
 	background-color: #fee6e6;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
