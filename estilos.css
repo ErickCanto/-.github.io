@@ -50,3 +50,20 @@ main img.displayed{
 	margin-left: auto;
 	margin-right: auto;
 }
+footer ul li{
+	padding: 10px;
+	list-style: none;
+	text-align: justify;
+}
+main ul{
+	padding: 20px;
+	background-color: #fff;
+}
+main ul li{
+	padding: 15px;
+	margin-right: 25%;
+	margin-left: 25%;
+	background-color: #fcba6a;
+	color: darkred;
+	font-family: "Georgia Bold Italic";
+}
